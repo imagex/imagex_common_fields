@@ -21,4 +21,5 @@ features[field_base][] = field_file_image_title_text
 features[field_base][] = field_image
 features[field_base][] = field_link
 features[field_base][] = field_tags
+features[field_instance][] = node-blog-field_file
 features_exclude[taxonomy][tags] = tags
