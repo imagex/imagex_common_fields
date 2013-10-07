@@ -1,4 +1,4 @@
-## ImageX Common Fields
+## Common Fields
 
 This Drupal module defines common fields that are used throughout many, if not all, Drupal website builds.
 
@@ -6,4 +6,4 @@ This module overrides the Drupal Field UI within the administration allowing for
 
 ## License
 
-This module has been designed and developed by [ImageX](http://www.imagexmedia.com) and has been licensed under the [GNU General Public License](http://www.gnu.org/licenses/gpl-2.0.html) version 2.
+This module has been engineered by [ImageX](http://www.imagexmedia.com) and has been licensed under the [GNU General Public License](http://www.gnu.org/licenses/gpl-2.0.html) version 2.
