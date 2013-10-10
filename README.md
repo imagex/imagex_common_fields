@@ -1,8 +1,8 @@
 ## Common Fields
 
-Reusable fields used by base content types
+Reusable fields for base content types.
 
-## Fields
+### Fields
 * Body
 * Comment Body
 * Field File 
@@ -10,10 +10,10 @@ Reusable fields used by base content types
 * Field Link
 * Field Tags
 
-##Dependencies
+### Dependencies
 
 * Contrib: [Features] (https://drupal.org/project/features)  (>= 1.0)
-* Feature: [Vocabulary Tags] (https://github.com/imagex/imagex_vocabulary_tags)
+* ImageX Component: [Vocabulary Tags] (https://github.com/imagex/imagex_vocabulary_tags) (>= 7.x-dev)
 
 ## License
 

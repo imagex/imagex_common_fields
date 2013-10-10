@@ -1,5 +1,5 @@
 name = Common Fields
-description = Common field definitions that are used on a regular basis, example field_image.
+description = Reusable fields for base content types.
 core = 7.x
 package = ImageX
 php = 5.2.4
