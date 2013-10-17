@@ -6,7 +6,16 @@ This module overrides the Drupal Field UI within the administration allowing for
 
 ### Fields
 
-[ TODO: List and include information about fields within ]
+Reusable fields for base content types.
+
+### Fields
+
+* Body
+* Comment Body
+* Field File 
+* Field File Image 
+* Field Link
+* Field Tags
 
 ## License
 
