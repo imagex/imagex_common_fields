@@ -4,7 +4,7 @@ core = 7.x
 ; Contributed modules.
 projects[addressfield][type] = "module"
 projects[addressfield][subdir] = "contrib"
-projects[addressfield][version] = "1.0-beta4"
+projects[addressfield][version] = "1.0-beta5"
 projects[conditional_fields][type] = "module"
 projects[conditional_fields][subdir] = "contrib"
 projects[conditional_fields][version] = "3.x-dev"
